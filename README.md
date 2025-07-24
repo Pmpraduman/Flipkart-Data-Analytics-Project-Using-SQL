@@ -16,3 +16,5 @@ any external BI tools or dashboards.
 ### ●  Evaluate delivery performance and user retention trends. 
 ### ●  Drive all insights using raw SQL — without any BI tools 
 
+# Dataset  
+The data for this project is sourced from self-generated data
