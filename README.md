@@ -3,11 +3,11 @@
 
 #  Overview
 
-As  Product  Manager,  I  built  this  project  to  simulate  how  product  teams  at  leading 
+** As  Product  Manager,  I  built  this  project  to  simulate  how  product  teams  at  leading 
 e-commerce  platforms  like  Flipkart  use  data  to  understand  user  behavior,  optimize  conversion 
 funnels,  improve  logistics,  and  drive  business  growth.  The  entire  project  is  powered  purely  by 
 SQL  and  showcases  my  ability  to  derive  actionable  insights  from  raw  data  —  without  relying  on 
-any external BI tools or dashboards. 
+any external BI tools or dashboards. **
 
 # Objectives
 ### ●  Track user signups and activity (DAU, WAU, MAU) to analyze growth. 
