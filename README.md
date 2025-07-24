@@ -21,6 +21,8 @@ any external BI tools or dashboards.
 The data for this project is sourced from self-generated data
 
 #  Schema
+
+```sql
 DROP TABLE IF EXISTS user_activity;
 CREATE TABLE user_activity (
     activity_id SERIAL PRIMARY KEY,
