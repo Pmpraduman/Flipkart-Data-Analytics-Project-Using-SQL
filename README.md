@@ -60,7 +60,7 @@ FROM user_activity
 GROUP BY month
 ORDER BY month;```
 
-3  Monitor how many new users are signing up on the platform to evaluate acquisition performance (New Signups).
+# 3  Monitor how many new users are signing up on the platform to evaluate acquisition performance (New Signups).
 SELECT activity_date, COUNT(DISTINCT user_id) AS new_signups
 FROM user_activity
 WHERE is_new_user = TRUE
