@@ -12,7 +12,7 @@
 ### ●  Identify top-performing products and detect high return/cancellation patterns. 
 ### ●  Analyze traffic sources to measure marketing effectiveness. 
 ### ●  Evaluate delivery performance and user retention trends. 
-### ●  Drive all insights using raw SQL — without any BI tools 
+### ●  Drive all insights using raw SQL — without any BI tools. 
 
 # Dataset  
 The data for this project is sourced from self-generated data
@@ -54,11 +54,11 @@ GROUP BY activity_date
 ORDER BY activity_date;
 ```
 
-2  Identify how many distinct users use the platform each month to analyze user base growth and retention (MAU – Monthly Active Users).
-SELECT DATE_TRUNC('month', activity_date) AS month, COUNT(DISTINCT user_id) AS monthly_active_users
+##  2  Identify how many distinct users use the platform each month to analyze user base growth and retention (MAU – Monthly Active Users).
+```SELECT DATE_TRUNC('month', activity_date) AS month, COUNT(DISTINCT user_id) AS monthly_active_users
 FROM user_activity
 GROUP BY month
-ORDER BY month;
+ORDER BY month;```
 
 3  Monitor how many new users are signing up on the platform to evaluate acquisition performance (New Signups).
 SELECT activity_date, COUNT(DISTINCT user_id) AS new_signups
