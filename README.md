@@ -189,3 +189,5 @@ WHERE purchased = TRUE;
 SELECT SUM(order_value) FILTER (WHERE purchased = TRUE AND returned = FALSE) AS net_revenue
 FROM user_activity;
 ```
+#  Findings and Conclusion 
+## ** This  project  uncovers  key  insights  into  Flipkart’s  user  behavior,  product  performance,  and customer sentiment using SQL-driven analysis.**
