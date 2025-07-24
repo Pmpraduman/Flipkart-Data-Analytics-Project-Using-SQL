@@ -44,7 +44,7 @@ CREATE TABLE user_activity (
 );
  SELECT * From user_activity;
 
-# Business Problems and Solutions
+#  Business Problems and Solutions
 ## 1 Understand how many unique users are active on the platform each day to track daily engagement trends (DAU – Daily Active Users).
 
 ```sql
