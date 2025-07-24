@@ -192,20 +192,13 @@ FROM user_activity;
 #  Findings and Conclusion 
 ## This  project  uncovers  key  insights  into  Flipkart’s  user  behavior,  product  performance,  and customer sentiment using SQL-driven analysis.
 
-## ●  User  Behavior:  Clear  distinction  between  active  buyers  and  passive  browsers  helps 
-identify target segments for conversion strategies. 
-##  ●  Purchase  Trends:  High  interest  in  discounted  and  fast-delivery  products,  but  noticeable 
-drop from cart additions to checkout — signaling optimization opportunities. 
-##  ●  Logistics  Performance:  Products  with  poor  ratings  face  higher  return  and  cancellation 
-rates, highlighting the need for better delivery and quality control. 
-## ●  Regional  Insights:  Cities  like  Delhi,  Mumbai,  and  Bangalore  show  the  highest 
-engagement, guiding location-based marketing and logistics decisions. 
-##  ●  Sentiment Categorization: 
-##  ●  Reviews  were  tagged  as  ‘Good’  if  they  included  words  like  “fast,”  “authentic,”  or  “value  for 
-money,”  and  as  ‘Bad’  if  they  mentioned  “delay,”  “broken,”  or  “fake.”  This  helped  identify 
-key areas to improve customer experience.
+### ●  User  Behavior:  Clear  distinction  between  active  buyers  and  passive  browsers  helps identify target segments for conversion strategies. 
+###  ●  Purchase  Trends:  High  interest  in  discounted  and  fast-delivery  products,  but  noticeable drop from cart additions to checkout — signaling optimization opportunities. 
+###  ●  Logistics  Performance:  Products  with  poor  ratings  face  higher  return  and  cancellation rates, highlighting the need for better delivery and quality control. 
+### ●  Regional  Insights:  Cities  like  Delhi,  Mumbai,  and  Bangalore  show  the  highest engagement, guiding location-based marketing and logistics decisions. 
+###  ●  Sentiment Categorization: 
+###  ● Reviews were tagged ‘Good’ if they included words like “fast,” “authentic,” or “value for money,” and ‘Bad’ if they mentioned “delay,” “broken,” or “fake,” helping identify areas to improve customer experience.
 
 #  Conclusion: 
 
-## This  analysis  provides  actionable  insights  that  can  drive  better  product  strategy,  personalized user  engagement,  logistics  efficiency,  and  overall  business  growth  —  all  powered  by  structured 
-SQL insights.
+##  This analysis provides insights that drive better product strategy, personalized user engagement, logistics efficiency, and overall business growth — all powered by structured SQL insights.
