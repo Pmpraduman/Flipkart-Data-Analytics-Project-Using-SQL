@@ -9,10 +9,10 @@ SQL  and  showcases  my  ability  to  derive  actionable  insights  from  raw  d
 any external BI tools or dashboards. 
 
 # Objectives
-●  Track user signups and activity (DAU, WAU, MAU) to analyze growth. 
-●  Map the full conversion funnel from views to purchases using SQL. 
-●  Identify top-performing products and detect high return/cancellation patterns. 
-●  Analyze traffic sources to measure marketing effectiveness. 
-●  Evaluate delivery performance and user retention trends. 
-●  Drive all insights using raw SQL — without any BI tools 
+## ●  Track user signups and activity (DAU, WAU, MAU) to analyze growth. 
+## ●  Map the full conversion funnel from views to purchases using SQL. 
+## ●  Identify top-performing products and detect high return/cancellation patterns. 
+## ●  Analyze traffic sources to measure marketing effectiveness. 
+## ●  Evaluate delivery performance and user retention trends. 
+## ●  Drive all insights using raw SQL — without any BI tools 
 
