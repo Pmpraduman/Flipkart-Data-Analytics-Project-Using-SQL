@@ -43,5 +43,5 @@ CREATE TABLE user_activity (
     session_duration_seconds INT           -- Duration of session
 );
  SELECT * From user_activity;
----
+```
 #   Business Problems and Solutions
