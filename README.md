@@ -55,7 +55,7 @@ ORDER BY activity_date;
 ```
 
 ##  2  Identify how many distinct users use the platform each month to analyze user base growth and retention (MAU – Monthly Active Users).
-``
+```
 `SELECT DATE_TRUNC('month', activity_date) AS month, COUNT(DISTINCT user_id) AS monthly_active_users
 FROM user_activity
 GROUP BY month
