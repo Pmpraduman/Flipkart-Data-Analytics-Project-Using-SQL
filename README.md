@@ -46,7 +46,7 @@ CREATE TABLE user_activity (
 ```
 #   Business Problems and Solutions
 
-#  1 Understand how many unique users are active on the platform each day to track daily engagement trends (DAU – Daily Active Users).
+##  1 Understand how many unique users are active on the platform each day to track daily engagement trends (DAU – Daily Active Users).
 ```
 SELECT activity_date, COUNT(DISTINCT user_id) AS daily_active_users
 FROM user_activity
